@@ -30,6 +30,8 @@ spring boot - rest services crud operations - live coding
 
 source code: https://github.com/TechPrudent/spring-boot-rest-crud-jpa-mysql
 
+Requests sample: https://github.com/TechPrudent/spring-boot-rest-crud-jpa-mysql/blob/master/data.json
+
 - crud - create, read, update, delete
 - mysql
 - jpa
